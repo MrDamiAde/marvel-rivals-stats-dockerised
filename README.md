@@ -42,4 +42,6 @@ Visit the app at: http://localhost:5000
 - HTML, Bootstrap 5
 
 📸 Demo
+![Screenshot 2025-04-30 130850](https://github.com/user-attachments/assets/9cf0fbee-8038-4e1d-a7d4-087f0ae8385d)
+![Screenshot 2025-04-30 130911](https://github.com/user-attachments/assets/34e5383f-c732-4569-b336-884df3edfedd)
 
