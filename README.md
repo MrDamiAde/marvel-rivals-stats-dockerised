@@ -1,4 +1,10 @@
-# Marvel Rivals Stats
+# Marvel Rivals Stats App
+
+![Flask](https://img.shields.io/badge/Flask-Python-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Backend-336791)
+![Docker](https://img.shields.io/badge/Built%20With-Docker-blue)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)
+![Status](https://img.shields.io/badge/status-live-success)
 
 I built this project because I play **Marvel Rivals daily** and thought, why not build something useful and fun around it?
 
